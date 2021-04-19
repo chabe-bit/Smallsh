@@ -1,5 +1,4 @@
 # Smallsh
-Program Functionality
 1. The Command Prompt
 Use the colon : symbol as a prompt for each command line. 
 
